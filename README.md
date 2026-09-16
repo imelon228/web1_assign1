@@ -86,6 +86,7 @@ Part 1.
 
 22. Publish Your First Website:
 GitHub: https://github.com/imelon228/web1_assign1.git
+
 Website: https://imelon228.github.io/web1_assign1/
 
 Summary: Overall, this assignment helped me gain fundamentals of HTML and CSS, working with basic tags in HTML and styling with attributes like color, size, font-famyli and etc.
