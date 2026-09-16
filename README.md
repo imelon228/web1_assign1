@@ -29,7 +29,8 @@ Part 1.
   <img width="612" height="70" alt="image" src="https://github.com/user-attachments/assets/14b67a82-03e0-4e50-8507-42153eca95b9" />
 
 8. HTML Forms
-  <img width="462" height="152" alt="image" src="https://github.com/user-attachments/assets/28097dee-9e25-4fe8-9886-df962fbce44d" />
+ <img width="582" height="246" alt="image" src="https://github.com/user-attachments/assets/1eea1aae-d0ca-484c-9e55-e2de9a739446" />
+
 
     Part 3.
 
