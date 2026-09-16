@@ -1,0 +1,79 @@
+h3 {
+    color: yellow;
+    text-decoration: underline;
+}
+
+.externalclass {
+    color:brown;
+    font-family:Arial, Helvetica, sans-serif
+}
+
+#key {
+    color:darkgreen;
+    font-size: 40px;
+}
+
+
+.highlight {
+    color:darkmagenta
+}
+
+#main-heading {
+    text-align: right;
+}
+
+#header {
+    background-color:rgb(176, 234, 234);
+}
+
+#main-content {
+    background-color:white;
+}
+
+#footer {
+    background-color :rgb(65, 64, 64);
+    text-align: center;
+    font-size: 0.9em;
+    padding: 20px;
+}
+
+table, th, td {
+    border: 3px solid; 
+    padding: 10px; 
+    margin: 30px;
+}
+
+
+.static-box {
+    position: static;
+    padding: 1%;
+}
+
+.relative-box {
+    position: relative;
+    padding: 1%;
+    top: 10px;
+    left: 20px;
+}
+
+.absolute-box {
+    position: absolute;
+    padding: 1%;
+    right: 20px;
+}
+
+.box-left  { 
+    float: left;
+    padding: 1%;
+    width: 30%; 
+}
+.box-right { 
+    float: right;
+    padding: 1%; 
+    width: 30%; 
+}
+
+.clear-box {
+    clear: both;
+    padding: 1%;
+}
